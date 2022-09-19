@@ -32,4 +32,4 @@ For easier navigation, I have sorted them in a table and made separate instructi
 | [Sentiment Analysis](./socipy/sentiment-analysis/README.md)      | Models, Visualizations, and Emotions       | _Unfinished_ |
 | [Social Network Analysis](./socipy/social-network-analysis/README.md)   | Data processing, Visualization, Network Properties         | _Unfinished_ |
 | [Text Classification](./socipy/text-classification/README.md)   | (Pretrained) Models, (Un-)Supervised Classification         | _Unfinished_ |
-| [File Conversion](./socipy/file-conversion/README.md)   | RTF-to-TXT, PDF-to-TXT, Web Scraping         | - [x] |
+| [File Conversion](./socipy/file-conversion/README.md)   | RTF-to-TXT, PDF-to-TXT, Web Scraping         | **Finished!** |
