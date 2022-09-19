@@ -5,7 +5,7 @@
 For a quick start, run the bash file:
 
 ```
-export DIR='./data/' # directory containing files to convert; change accordingly
+export DIR='./data/' # directory containing files to convert
 ./batch.sh
 ```
 
