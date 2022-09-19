@@ -2,7 +2,7 @@
 
 ## Updates
 
-[Sep 20, 2022] File Conversion utility is finished!
+[Sep 20, 2022] File Conversion utility is finished!<br>
 [Sep 18, 2022] README.md file created!
 
 ## Quick Start
