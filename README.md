@@ -1,4 +1,4 @@
-# Handy Tools for Social Science Research
+# Socipy: Handy Tools for Social Science Research
 
 ## Motivation
 
