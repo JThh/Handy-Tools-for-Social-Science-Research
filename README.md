@@ -2,8 +2,8 @@
 
 ## Updates
 
-[Sep 20, 2022] :white_check_mark:File Conversion utility is finished!<br>
-[Sep 18, 2022] :white_check_mark:README.md file created!
+[Sep 20, 2022] :white_check_mark: File Conversion utility is finished!<br>
+[Sep 18, 2022] :white_check_mark: README.md file created!
 
 ## Table of Contents
 
