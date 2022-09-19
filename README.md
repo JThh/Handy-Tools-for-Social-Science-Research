@@ -13,7 +13,7 @@
 python3 -m pip install socipy
 ``` -->
 
-For now, to install it manually, run:
+To install it manually, run:
 ```
 git clone https://github.com/JThh/Handy-Tools-for-Social-Science-Research.git socipy
 cd socipy
