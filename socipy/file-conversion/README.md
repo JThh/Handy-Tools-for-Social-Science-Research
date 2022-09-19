@@ -21,4 +21,4 @@ Each utility has very similar usage; make sure to check out `parse_args()` funct
 
 ## Credit
 
-Credit specifically given to Prof. Yuhao Ba and myself.
+Credit specifically given to Prof. Yuhao Ba.
