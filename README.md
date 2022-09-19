@@ -10,18 +10,20 @@ I welcome contributors (especially social science researchers) to give advice or
 
 I am working on modularizing the codes and designing the interfaces; do star the project and check out the progress! (Hope I can at least half-finish it before recess ends) 
 
-<!-- ## Get Started
-It has (yet) been packaged as a `pip` library named 'socipy'. To install, run the following command:
-```
-python3 -m pip install socipy
-```
+## Get Started
+It has (yet) been packaged as a `pip` library named 'socipy'.
 
-To install it manually, run:
+ <!-- To install, run the following command: -->
+<!-- ```
+python3 -m pip install socipy
+``` -->
+
+For now, to install it manually, run:
 ```
 git clone https://github.com/JThh/Handy-Tools-for-Social-Science-Research.git socipy
 cd socipy
 python3 setup.py install
-``` -->
+```
 
 ## Categories
 
