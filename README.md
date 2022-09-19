@@ -1,5 +1,10 @@
 # Socipy: Handy Tools for Social Science Research
 
+## Updates
+
+[Sep 20, 2022] File Conversion utility is finished!
+[Sep 18, 2022] README.md file created!
+
 ## Quick Start
 <!-- It has (yet) been packaged as a `pip` library named 'socipy'. -->
 
@@ -23,7 +28,7 @@ Many tools are the outcome of collaboration, and I have given credit in the rele
 
 I welcome contributors (especially social science researchers) to give advice or contribute codes.
 
-I am working on modularizing the codes and designing the interfaces; do star the project and check out the progress! (Hope I can at least half-finish it before recess ends) 
+I am working on modularizing the codes and designing the interfaces; **do star :star: the project and check out the progress!** (Hope I can at least half-finish it before recess week ends) 
 
 
 ## Categories
