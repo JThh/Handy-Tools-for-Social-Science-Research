@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This repository contains a list of frequently used research utilities when I did many social science related RA jobs (especially related to public policy and economics research). The tools span across the areas of natural language processing (e.g. sentiment analysis, text classification), social network analysis, or file stream processing. 
+This repository contains a list of frequently used research utilities when I did many interdisciplinary research assistant jobs at LKYSPP, NUS (especially related to public policy and economics research). The tools span across the areas of natural language processing (e.g. sentiment analysis, text classification), social network analysis, or file stream processing. 
 
 Many tools are the outcome of collaboration, and I have given credit in the relevant section. Notably, thanks to many professors and researchers that have hired me and let me help them accomplish these tools. I hope open sourcing and automating their use can help more social science researchers and workers to less rely on computer science professionals.
 
