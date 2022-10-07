@@ -1,5 +1,7 @@
 # Socipy: Handy Tools for Social Science Research
 
+<p align="center"><img width="90%" src="assets/socipy.png"/>
+
 ## Updates
 
 [Sep 20, 2022] :white_check_mark: File Conversion utility is finished!<br>
