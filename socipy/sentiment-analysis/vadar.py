@@ -10,6 +10,9 @@ nltk.download('vader_lexicon')
 
 
 class Vadar(sia):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        pass
     def _preprocess(self, corpus: str) -> List:
         return nltk.tokenize.sent_tokenize(corpus)
 
@@ -24,7 +27,7 @@ class Vadar(sia):
 
 def main():
     print("Demo start")
-    corpus = input("Key in a list of sentences or one sentence to test sentiments:")
+    corpus = input("Key in a list of sentences or one sentence to test sentiments:\n")
     analyzer = Vadar()
     sents, scores = analyzer.batch_predict(corpus)
     for (x,y) in zip(sents, scores):
