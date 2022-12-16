@@ -13,9 +13,9 @@
 | Tool      | Keywords | progress |
 | ----------- | ----------- | ----------- |
 | [File Conversion](./socipy/file-conversion/)   | Multithreaded RTF-to-TXT, PDF-to-TXT, Web Scraping         | **Finished! (multithreading to-add)** |
-| [Sentiment Analysis](./socipy/sentiment-analysis/)      | Models, Visualizations, and Emotions       | **Finished** |
+| [Sentiment Analysis](./socipy/sentiment-analysis/)      | Models, Visualizations, and Emotions       | **In-Progress** |
 | [Social Network Analysis](./socipy/social-network-analysis/)   | Data processing, Visualization, Network Properties         | **Finished** |
-| [Text Classification](./socipy/text-classification/)   | (Pretrained) Models, (Un-)Supervised Classification         | **Finished** |
+| [Text Classification](./socipy/text-classification/)   | (Pretrained) Models, (Un-)Supervised Classification         | **In-Progress** |
 
 ## Quick Start
 <!-- It has (yet) been packaged as a `pip` library named 'socipy'. -->
