@@ -1,5 +1,4 @@
-import pyvis
-
+import streamlit
 
 def main():
     pass

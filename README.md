@@ -4,7 +4,7 @@
 
 ## Updates
 
-[Dec 14, 2022] **More exciting updates are forth-coming!**<br>
+[Dec 14, 2022] **More exciting updates (web-inferface) are forth-coming!**<br>
 [Sep 20, 2022] :white_check_mark: File Conversion utility is finished!<br>
 [Sep 18, 2022] :white_check_mark: README.md file created!
 
